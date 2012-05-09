@@ -1,7 +1,7 @@
 call pathogen#infect()
 
 syntax enable
-color default
+color asmdev2
 set ts=4 sw=4 sts=4 sta ai et
 map <C-x> :NERDTree<Enter>
 
