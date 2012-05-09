@@ -14,4 +14,4 @@ autocmd FileType c,cpp,h, set noet
 autocmd FileType html,css set ts=2 sts=2 sw=2 sta ai noet
 autocmd FileType ruby,cucumber set ts=2 sts=2 sw=2 ai et
 
-let NERDTreeIgnore = [ '*.o' ]
+let NERDTreeIgnore = [ '\.o$' ]
