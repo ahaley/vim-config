@@ -1,11 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/usr/local/mysql-5.5.10-osx10.6-x86/data/mysql'
-let g:netrw_dirhist_2='/Library/WebServer/Documents/dropgal/.git'
-let g:netrw_dirhist_3='/Users/ahaley/test'
-let g:netrw_dirhist_4='/Users/ahaley/src/my_app/app/config/bootstrap'
-let g:netrw_dirhist_5='/Library/WebServer/Documents/my_app/app/config/bootstrap'
-let g:netrw_dirhist_6='/Users/ahaley/src/ZendFramework-1.11.11-minimal/library/Zend/Gdata/Photos'
-let g:netrw_dirhist_7='/Library/WebServer/Documents/dropgal/.git'
-let g:netrw_dirhist_8='/Users/ahaley/src/rspec_book/codebreaker/lib/codebreaker'
-let g:netrw_dirhist_9='/Library/WebServer/Documents/Picgallery/lib/Picgallery'
+let g:netrw_dirhist_cnt =0
