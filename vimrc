@@ -10,7 +10,7 @@ nmap <leader>l :set list!<CR>
 set listchars=tab:▸\ ,eol:$
 
 autocmd FileType make set noet ts=2 sw=2
-autocmd FileType c,cpp,h, set noet
+autocmd FileType c,cpp,h, set noet ts=4 sw=4
 autocmd FileType html,css set ts=2 sts=2 sw=2 sta ai noet
 autocmd FileType ruby,cucumber set ts=2 sts=2 sw=2 ai et
 
