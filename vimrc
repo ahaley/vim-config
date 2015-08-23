@@ -4,7 +4,7 @@ set nocompatible
 
 syntax enable
 set background=dark
-color solarized
+color elflord
 set ts=4 sw=4 sts=4 sta ai et
 map <C-x> :NERDTree<Enter>
 
